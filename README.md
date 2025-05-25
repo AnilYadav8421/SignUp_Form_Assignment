@@ -13,13 +13,6 @@ A pixel-perfect mobile-friendly React application for managing user authenticati
 
 ---
 
-## Live Demo
-
-🔗 [https://your-vercel-deployment.vercel.app](https://your-vercel-deployment.vercel.app)  
-> Replace with your actual Vercel deployment link.
-
----
-
 ## Tech Stack
 
 - React (Vite)
