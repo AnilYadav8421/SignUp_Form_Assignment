@@ -13,13 +13,6 @@ A pixel-perfect mobile-friendly React application for managing user authenticati
 
 ---
 
-## Preview
-
-![App Screenshot](https://via.placeholder.com/375x667?text=App+UI+Preview)  
-> *Note: Replace with your actual hosted app screenshot or screen recording.*
-
----
-
 ## Live Demo
 
 🔗 [https://your-vercel-deployment.vercel.app](https://your-vercel-deployment.vercel.app)  
