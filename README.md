@@ -84,7 +84,5 @@ This project is licensed under the MIT License.
 
 ```
 
----
-
 Let me know if you want me to generate the screenshot placeholder, insert your actual Vercel URL, or write a `package.json` too.
 ```
