@@ -20,7 +20,7 @@ A pixel-perfect mobile-friendly React application for managing user authenticati
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - React (Vite)
 - React Router DOM
@@ -30,7 +30,7 @@ A pixel-perfect mobile-friendly React application for managing user authenticati
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 
