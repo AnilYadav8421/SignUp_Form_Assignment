@@ -1,12 +1,97 @@
-# React + Vite
+```markdown
+# PopX Account Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A pixel-perfect mobile-friendly React application for managing user authentication including signup, login, and profile viewing — designed with a clean UI and seamless navigation.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-  Mobile-first UI (375px width) centered on desktop
+-  Signup and Login with validation
+-  Profile page with name, email, and editable profile picture
+-  Navigation between pages using React Router
+-  Fully deployed and accessible on Vercel
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Preview
+
+![App Screenshot](https://via.placeholder.com/375x667?text=App+UI+Preview)  
+> *Note: Replace with your actual hosted app screenshot or screen recording.*
+
+---
+
+## Live Demo
+
+🔗 [https://your-vercel-deployment.vercel.app](https://your-vercel-deployment.vercel.app)  
+> Replace with your actual Vercel deployment link.
+
+---
+
+## 🛠 Tech Stack
+
+- React (Vite)
+- React Router DOM
+- Tailwind CSS
+- LocalStorage for session management
+- Deployed on Vercel
+
+---
+
+## 📁 Folder Structure
+
+```
+
+/src
+/pages
+\- LoginPage.jsx
+\- SignupPage.jsx
+\- ProfilePage.jsx
+/utils
+\- auth.js
+App.jsx
+main.jsx
+
+````
+
+---
+
+## ⚙️ Installation & Local Setup
+
+```bash
+git clone https://github.com/AnilYadav8421/popx-app.git
+cd popx-app
+npm install
+npm run dev
+````
+
+App runs on: [http://localhost:5173](http://localhost:5173)
+
+---
+
+## 🔐 Auth Logic
+
+* Data is stored in `localStorage` for simplicity.
+* `auth.js` handles login, signup, getUser, and logout methods.
+* Form validation for all fields using regex and empty checks.
+
+---
+
+## 🧹 Code Standards
+
+* Clean and modular component structure.
+* Tailwind CSS for styling.
+* Fully responsive and pixel-aligned layout.
+* Mobile app interface strictly centered on the webpage.
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License.
+
+```
+
+---
+
+Let me know if you want me to generate the screenshot placeholder, insert your actual Vercel URL, or write a `package.json` too.
+```
